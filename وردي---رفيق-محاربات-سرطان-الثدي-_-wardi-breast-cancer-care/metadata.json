@@ -1,0 +1,6 @@
+{
+  "name": "وردي - رفيق محاربات سرطان الثدي | Wardi Breast Cancer Care",
+  "description": "تطبيق رعاية متكامل لمريضات سرطان الثدي، يوفر تذكيرات ذكية بالأدوية والجلسات عبر الإشعارات والمكالمات الهاتفية، مساعد طبي ذكي مدعوم بالذكاء الاصطناعي، لوحة تحكم للأطباء، ومتابعة الفحوصات المخبرية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
